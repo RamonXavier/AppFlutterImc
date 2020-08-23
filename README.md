@@ -1,16 +1,32 @@
-# imc
+# Fluter IMC
+Aplicação Mobile
 
-A new Flutter project.
+<h1>Objetivo:</h1>
+O presente projeto tem por finalidade a criação de um aplicativo mobile utilizando a tecnologia Flutter. 
 
-## Getting Started
+O Aplicativo deverá realizar o cálculo de índice de massa corporal do usuário e lhe apresentar o resultado de maneira prática e fácil.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Tecnologias:
+Para o desenvolvimento desta aplicação utilizei tecnologias que ainda não tive experiências. 
+Assim, foi um desafio e uma imersão em um novo conteúdo gerando grande interesse e engajamento.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Para front-end: 
+	Css,
+	Js,
+  Flutter.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para back-end:
+  Dart,
+  Js.
+
+
+# Ferramentas:
+	-Para edição de texto e a programação em si foi utilizada a IDE Visual Studio Code;
+	-Foi utilizado um emulador de um dispositivo móvel com sistema operacional Android para rodar a aplicação em desenvolvimento.
+
+# Contato: 
+	Ramon Xavier
+	 Ramon38xavier@gmail.com
+	 (32) 99137-5797
+	 www.linkedin.com/in/ramonxavier
